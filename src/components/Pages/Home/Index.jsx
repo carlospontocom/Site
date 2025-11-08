@@ -1,5 +1,6 @@
 import { Button } from '../../Button/Index';
 import styles from './Home.module.css';
+import Profiction from './Profiction/Index';
  
 function Home() {
     return (
@@ -22,7 +23,7 @@ function Home() {
                 </div>
             </div>
         </section>
-
+        <Profiction/>
          </>
     )
 }

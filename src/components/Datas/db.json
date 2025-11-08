@@ -1,0 +1,97 @@
+[
+    {
+        "id": "card1",
+        "titulo": "FrontEnd",
+        "icone":"fa-solid fa-code",
+        "lema": "Interface e Experiência do Usuário", 
+        "descricao": "Crie interfaces modernas, responsivas e interativas que proporcionam a melhor experiência para os usuários",
+        "btn": "Explore FrontEnd",
+        "btnColor":"verde",
+
+        "itemsAdd": {
+            "itemTitulo": "O que o FrontEnd possibilita",
+            "itemElementos": [
+                {
+                    "id": "feat1",
+                    "texto": "Design Responsivo e Layouts Modernos"
+                },
+                {
+                    "id": "feat2", 
+                    "texto": "Interatividade com JavaScript"
+                },
+                {
+                    "id": "feat3",
+                    "texto": "Designer interessante"
+                },
+                {
+                    "id": "feat4",
+                    "texto": "Otimização de Performance Web"
+                }
+            ]
+        }
+    },
+    {
+        "id": "card2",
+        "titulo": "BackEnd",
+        "icone":"fa-solid fa-server",
+        "lema": "Lógica e Infraestrutura",
+        "descricao": "Desenvolva a lógica de negócio, APIs robustas e sistemas escaláveis que sustentam aplicações web modernas",
+        "btn": "Explore BackEnd",
+        "btnColor":"azul",
+
+        "itemsAdd": {
+            "itemTitulo": "O que o BackEnd possibilita",
+            "itemElementos": [
+                {
+                    "id": "be1",
+                    "texto": "Desenvolvimento de APIs REST e GraphQL"
+                },
+                {
+                    "id": "be2",
+                    "texto": "Autenticação e Segurança de Dados"
+                },
+                {
+                    "id": "be3",
+                    "texto": "Arquitetura de Microserviços"
+                },
+                {
+                    "id": "be4",
+                    "texto": "Deploy e Configuração de Servidores"
+                }
+            ]
+           
+        }
+    },
+    {
+        "id": "card3",
+        "titulo": "Banco de Dados",
+        "icone":"fa-solid fa-database",
+          "lema": "Armazenamento e Gestão de Dados",
+        "descricao": "Domine a modelagem, consultas e otimização de bancos de dados relacionais e não-relacionais",
+        "btn": "Banco de Dados",
+        "btnColor":"laranjado",
+
+        "itemsAdd": {
+            "itemTitulo": "O que o Banco de Dados possibilita",
+            "itemElementos": [
+                {
+                    "id": "db1",
+                    "texto": "Conexão com MongoDB"
+                },
+                {
+                    "id": "db2",
+                    "texto": "Consultas aos dados"
+                },
+                {
+                    "id": "db3",
+                    "texto": "Banco de dados online"
+                },
+                {
+                    "id": "db4",
+                    "texto": "Gestão de dados"
+                }
+            ]
+            
+        }
+    }
+]

@@ -13,22 +13,26 @@
     opacity: .9;
 }
 
-.red{
+.vermelho{
     background-color: red;
     color:white;
 }
 
-.blue{
+.azul{
     background-color: #0d6efd;
     color: white;
 }
 
-.green{
+.verde{
     background-color: green;
     color: white;
 }
 
-.orange{
+.laranjado{
     background-color: orange;
+    color: white;
+}
+.marrom{
+    background-color: brown;
     color: white;
 }
