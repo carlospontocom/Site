@@ -2,11 +2,12 @@
     {
         "id": "card1",
         "titulo": "FrontEnd",
-        "icone":"fa-solid fa-code",
-        "lema": "Interface e Experiência do Usuário", 
+        "icone": "fa-solid fa-code",
+        "lema": "Interface e Experiência do Usuário",
         "descricao": "Crie interfaces modernas, responsivas e interativas que proporcionam a melhor experiência para os usuários",
         "btn": "Explore FrontEnd",
-        "btnColor":"verde",
+        "btnColor": "verde",
+        "bgColorCard": "azul",
 
         "itemsAdd": {
             "itemTitulo": "O que o FrontEnd possibilita",
@@ -16,7 +17,7 @@
                     "texto": "Design Responsivo e Layouts Modernos"
                 },
                 {
-                    "id": "feat2", 
+                    "id": "feat2",
                     "texto": "Interatividade com JavaScript"
                 },
                 {
@@ -33,11 +34,12 @@
     {
         "id": "card2",
         "titulo": "BackEnd",
-        "icone":"fa-solid fa-server",
+        "icone": "fa-solid fa-server",
         "lema": "Lógica e Infraestrutura",
         "descricao": "Desenvolva a lógica de negócio, APIs robustas e sistemas escaláveis que sustentam aplicações web modernas",
         "btn": "Explore BackEnd",
-        "btnColor":"azul",
+        "btnColor": "azul",
+        "bgColorCard": "vermelho",
 
         "itemsAdd": {
             "itemTitulo": "O que o BackEnd possibilita",
@@ -59,18 +61,17 @@
                     "texto": "Deploy e Configuração de Servidores"
                 }
             ]
-           
         }
     },
     {
         "id": "card3",
         "titulo": "Banco de Dados",
-        "icone":"fa-solid fa-database",
-          "lema": "Armazenamento e Gestão de Dados",
+        "icone": "fa-solid fa-database",
+        "lema": "Armazenamento e Gestão de Dados",
         "descricao": "Domine a modelagem, consultas e otimização de bancos de dados relacionais e não-relacionais",
         "btn": "Banco de Dados",
-        "btnColor":"laranjado",
-
+        "btnColor": "laranjado",
+        "bgColorCard": "preto",
         "itemsAdd": {
             "itemTitulo": "O que o Banco de Dados possibilita",
             "itemElementos": [
@@ -91,7 +92,39 @@
                     "texto": "Gestão de dados"
                 }
             ]
-            
         }
+    },
+
+    {
+        "cod":"0",
+        "iconEad":"icone 1",
+        "tituloEad":"Aprendizado 100% online & prático",
+        "textoEad":"Estude de qualquer lugar, no seu próprio ritmo, com acesso vitalício aos cursos"
+    },
+
+    {
+        "cod":"0ead",
+        "iconEad":"icone 1",
+        "tituloEad":"Aprendizado 100% online & prático",
+        "textoEad":"Estude de qualquer lugar, no seu próprio ritmo, com acesso vitalício aos cursos"
+    },
+
+    {
+        "cod":"1ead",
+        "iconEad":"icone 2",
+        "tituloEad":"Aprendizado 100% online & prático",
+        "textoEad":"Estude de qualquer lugar, no seu próprio ritmo, com acesso vitalício aos cursos"
+    },
+    {
+        "cod":"2ead",
+        "iconEad":"icone 3",
+        "tituloEad":"Aprendizado 100% online & prático",
+        "textoEad":"Estude de qualquer lugar, no seu próprio ritmo, com acesso vitalício aos cursos"
+    },
+    {
+        "cod":"3ead",
+        "iconEad":"icone 4",
+        "tituloEad":"Aprendizado 100% online & prático",
+        "textoEad":"Estude de qualquer lugar, no seu próprio ritmo, com acesso vitalício aos cursos"
     }
 ]
